@@ -1,0 +1,11 @@
+{
+  "description": "Bhargey's Developer Portfolio",
+  "repo": "https://github.com/bhargey-s/portfolio",
+  "owner": {
+    "username": "bhargey-s",
+    "email": "bhargeys@gmail.com"
+  },
+  "record": {
+    "CNAME": "bhargey-s.github.io"
+  }
+}
